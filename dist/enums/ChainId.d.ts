@@ -13,7 +13,6 @@ export declare enum ChainId {
     BSC_TESTNET = 97,
     ARBITRUM = 42161,
     ARBITRUM_TESTNET = 79377087078960,
-    MOONBEAM_TESTNET = 1287,
     AVALANCHE = 43114,
     AVALANCHE_TESTNET = 43113,
     HECO = 128,
@@ -29,5 +28,6 @@ export declare enum ChainId {
     FUSE = 122,
     TELOS = 40,
     HARDHAT = 31337,
-    MOONBEAM = 1284
+    MOONBEAM = 1284,
+    MOONBEAM_TESTNET = 1287
 }
