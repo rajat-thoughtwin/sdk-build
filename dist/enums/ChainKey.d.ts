@@ -19,7 +19,7 @@ export declare enum ChainKey {
     ROPSTEN = "ropsten",
     MATIC = "polygon",
     MATIC_TESTNET = "matic-testnet",
-    MOONBEAM_TESTNET = "moonbase",
+    MOONBEAM_TESTNET = "moonbeam-testnet",
     MOONRIVER = "moonriver",
     OKEX = "okex",
     OKEX_TESTNET = "okex-testnet",
